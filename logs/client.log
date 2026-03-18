@@ -1,0 +1,808 @@
+Client log file initialized: clients : 0
+Message received at 0 in clients : 0
+clients : 0 Task Created : 1 Task length : 34
+Task desc :633,63,502,692,703,28,5,550,437,929,965,93,815,870,118,345,771,10,388,11,827,237,523,704,705,613,914,771,963,770,480,55,674,196
+clients : 0 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 0
+Sub Task desc :633,63,502,692
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 0
+Sub Task desc :633,63,502,692
+clients : 0 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 0
+Sub Task desc :633,63,502,692
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 0
+Sub Task desc :633,63,502,692
+clients : 0 : Subtask sent : Destination : 8 Task number : 1 Sub task number : 0
+Sub Task desc :633,63,502,692
+clients : 0 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 1
+Sub Task desc :703,28,5,550
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 1
+Sub Task desc :703,28,5,550
+clients : 0 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 1
+Sub Task desc :703,28,5,550
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 1
+Sub Task desc :703,28,5,550
+clients : 0 : Subtask sent : Destination : 8 Task number : 1 Sub task number : 1
+Sub Task desc :703,28,5,550
+clients : 0 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 2
+Sub Task desc :437,929,965,93
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 2
+Sub Task desc :437,929,965,93
+clients : 0 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 2
+Sub Task desc :437,929,965,93
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 2
+Sub Task desc :437,929,965,93
+clients : 0 : Subtask sent : Destination : 8 Task number : 1 Sub task number : 2
+Sub Task desc :437,929,965,93
+clients : 0 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 3
+Sub Task desc :815,870,118,345
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 3
+Sub Task desc :815,870,118,345
+clients : 0 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 3
+Sub Task desc :815,870,118,345
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 3
+Sub Task desc :815,870,118,345
+clients : 0 : Subtask sent : Destination : 8 Task number : 1 Sub task number : 3
+Sub Task desc :815,870,118,345
+clients : 0 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 4
+Sub Task desc :771,10,388,11
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 4
+Sub Task desc :771,10,388,11
+clients : 0 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 4
+Sub Task desc :771,10,388,11
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 4
+Sub Task desc :771,10,388,11
+clients : 0 : Subtask sent : Destination : 8 Task number : 1 Sub task number : 4
+Sub Task desc :771,10,388,11
+clients : 0 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 5
+Sub Task desc :827,237,523,704
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 5
+Sub Task desc :827,237,523,704
+clients : 0 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 5
+Sub Task desc :827,237,523,704
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 5
+Sub Task desc :827,237,523,704
+clients : 0 : Subtask sent : Destination : 8 Task number : 1 Sub task number : 5
+Sub Task desc :827,237,523,704
+clients : 0 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 6
+Sub Task desc :705,613,914,771
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 6
+Sub Task desc :705,613,914,771
+clients : 0 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 6
+Sub Task desc :705,613,914,771
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 6
+Sub Task desc :705,613,914,771
+clients : 0 : Subtask sent : Destination : 8 Task number : 1 Sub task number : 6
+Sub Task desc :705,613,914,771
+clients : 0 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 7
+Sub Task desc :963,770,480
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 7
+Sub Task desc :963,770,480
+clients : 0 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 7
+Sub Task desc :963,770,480
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 7
+Sub Task desc :963,770,480
+clients : 0 : Subtask sent : Destination : 8 Task number : 1 Sub task number : 7
+Sub Task desc :963,770,480
+clients : 0 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 8
+Sub Task desc :55,674,196
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 8
+Sub Task desc :55,674,196
+clients : 0 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 8
+Sub Task desc :55,674,196
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 8
+Sub Task desc :55,674,196
+clients : 0 : Subtask sent : Destination : 8 Task number : 1 Sub task number : 8
+Sub Task desc :55,674,196
+clients : 0 Hello from Server
+clients : 0 Hello from Server
+clients : 0 Hello from Server
+clients : 0 Hello from Server
+clients : 0 Hello from Server
+clients : 0 Hello from Server
+Client log file initialized: clients : 1
+Message received at 0 in clients : 1
+clients : 1 Task Created : 1 Task length : 35
+Task desc :432,214,593,753,839,397,416,713,858,884,537,493,869,807,253,681,549,99,339,100,257,601,179,886,997,259,493,379,256,696,662,640,982,497,802
+clients : 1 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 0
+Sub Task desc :432,214,593,753
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 0
+Sub Task desc :432,214,593,753
+clients : 1 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 0
+Sub Task desc :432,214,593,753
+clients : 1 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 0
+Sub Task desc :432,214,593,753
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 0
+Sub Task desc :432,214,593,753
+clients : 1 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 1
+Sub Task desc :839,397,416,713
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 1
+Sub Task desc :839,397,416,713
+clients : 1 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 1
+Sub Task desc :839,397,416,713
+clients : 1 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 1
+Sub Task desc :839,397,416,713
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 1
+Sub Task desc :839,397,416,713
+clients : 1 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 2
+Sub Task desc :858,884,537,493
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 2
+Sub Task desc :858,884,537,493
+clients : 1 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 2
+Sub Task desc :858,884,537,493
+clients : 1 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 2
+Sub Task desc :858,884,537,493
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 2
+Sub Task desc :858,884,537,493
+clients : 1 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 3
+Sub Task desc :869,807,253,681
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 3
+Sub Task desc :869,807,253,681
+clients : 1 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 3
+Sub Task desc :869,807,253,681
+clients : 1 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 3
+Sub Task desc :869,807,253,681
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 3
+Sub Task desc :869,807,253,681
+clients : 1 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 4
+Sub Task desc :549,99,339,100
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 4
+Sub Task desc :549,99,339,100
+clients : 1 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 4
+Sub Task desc :549,99,339,100
+clients : 1 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 4
+Sub Task desc :549,99,339,100
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 4
+Sub Task desc :549,99,339,100
+clients : 1 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 5
+Sub Task desc :257,601,179,886
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 5
+Sub Task desc :257,601,179,886
+clients : 1 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 5
+Sub Task desc :257,601,179,886
+clients : 1 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 5
+Sub Task desc :257,601,179,886
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 5
+Sub Task desc :257,601,179,886
+clients : 1 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 6
+Sub Task desc :997,259,493,379
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 6
+Sub Task desc :997,259,493,379
+clients : 1 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 6
+Sub Task desc :997,259,493,379
+clients : 1 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 6
+Sub Task desc :997,259,493,379
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 6
+Sub Task desc :997,259,493,379
+clients : 1 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 7
+Sub Task desc :256,696,662,640
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 7
+Sub Task desc :256,696,662,640
+clients : 1 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 7
+Sub Task desc :256,696,662,640
+clients : 1 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 7
+Sub Task desc :256,696,662,640
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 7
+Sub Task desc :256,696,662,640
+clients : 1 : Subtask sent : Destination : 0 Task number : 1 Sub task number : 8
+Sub Task desc :982,497,802
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 8
+Sub Task desc :982,497,802
+clients : 1 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 8
+Sub Task desc :982,497,802
+clients : 1 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 8
+Sub Task desc :982,497,802
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 8
+Sub Task desc :982,497,802
+clients : 1 Hello from Server
+clients : 1 Hello from Server
+clients : 1 Hello from Server
+clients : 1 Hello from Server
+clients : 1 Hello from Server
+clients : 1 Hello from Server
+Client log file initialized: clients : 0
+Message received at 0 in clients : 0
+clients : 0 Task Created : 1 Task length : 34
+Task desc :633,63,502,692,703,28,5,550,437,929,965,93,815,870,118,345,771,10,388,11,827,237,523,704,705,613,914,771,963,770,480,55,674,196
+clients : 0 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 0
+Sub Task desc :633,63,502,692
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 0
+Sub Task desc :633,63,502,692
+clients : 0 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 0
+Sub Task desc :633,63,502,692
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 0
+Sub Task desc :633,63,502,692
+clients : 0 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 0
+Sub Task desc :633,63,502,692
+clients : 0 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 1
+Sub Task desc :703,28,5,550
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 1
+Sub Task desc :703,28,5,550
+clients : 0 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 1
+Sub Task desc :703,28,5,550
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 1
+Sub Task desc :703,28,5,550
+clients : 0 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 1
+Sub Task desc :703,28,5,550
+clients : 0 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 2
+Sub Task desc :437,929,965,93
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 2
+Sub Task desc :437,929,965,93
+clients : 0 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 2
+Sub Task desc :437,929,965,93
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 2
+Sub Task desc :437,929,965,93
+clients : 0 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 2
+Sub Task desc :437,929,965,93
+clients : 0 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 3
+Sub Task desc :815,870,118,345
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 3
+Sub Task desc :815,870,118,345
+clients : 0 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 3
+Sub Task desc :815,870,118,345
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 3
+Sub Task desc :815,870,118,345
+clients : 0 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 3
+Sub Task desc :815,870,118,345
+clients : 0 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 4
+Sub Task desc :771,10,388,11
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 4
+Sub Task desc :771,10,388,11
+clients : 0 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 4
+Sub Task desc :771,10,388,11
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 4
+Sub Task desc :771,10,388,11
+clients : 0 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 4
+Sub Task desc :771,10,388,11
+clients : 0 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 5
+Sub Task desc :827,237,523,704
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 5
+Sub Task desc :827,237,523,704
+clients : 0 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 5
+Sub Task desc :827,237,523,704
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 5
+Sub Task desc :827,237,523,704
+clients : 0 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 5
+Sub Task desc :827,237,523,704
+clients : 0 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 6
+Sub Task desc :705,613,914,771
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 6
+Sub Task desc :705,613,914,771
+clients : 0 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 6
+Sub Task desc :705,613,914,771
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 6
+Sub Task desc :705,613,914,771
+clients : 0 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 6
+Sub Task desc :705,613,914,771
+clients : 0 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 7
+Sub Task desc :963,770,480
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 7
+Sub Task desc :963,770,480
+clients : 0 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 7
+Sub Task desc :963,770,480
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 7
+Sub Task desc :963,770,480
+clients : 0 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 7
+Sub Task desc :963,770,480
+clients : 0 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 8
+Sub Task desc :55,674,196
+clients : 0 : Subtask sent : Destination : 2 Task number : 1 Sub task number : 8
+Sub Task desc :55,674,196
+clients : 0 : Subtask sent : Destination : 3 Task number : 1 Sub task number : 8
+Sub Task desc :55,674,196
+clients : 0 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 8
+Sub Task desc :55,674,196
+clients : 0 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 8
+Sub Task desc :55,674,196
+clients : 0 Hello from Server
+clients : 0 Hello from Server
+clients : 0 Hello from Server
+clients : 0 Hello from Server
+clients : 0 Hello from Server
+clients : 0 Hello from Server
+clients : 0 Hello from Server
+clients : 0 Hello from Server
+clients : 0 Hello from Server
+clients : response by server: 1 Task : 1 Subtask : 0 ans : 692
+clients : response by server: 3 Task : 1 Subtask : 0 ans : 692
+clients : response by server: 6 Task : 1 Subtask : 0 ans : 692
+clients : response by server: 7 Task : 1 Subtask : 0 ans : 692
+clients : response by server: 1 Task : 1 Subtask : 1 ans : 703
+clients : response by server: 3 Task : 1 Subtask : 1 ans : 703
+clients : response by server: 6 Task : 1 Subtask : 1 ans : 703
+clients : response by server: 7 Task : 1 Subtask : 1 ans : 703
+clients : response by server: 1 Task : 1 Subtask : 2 ans : 965
+clients : response by server: 3 Task : 1 Subtask : 2 ans : 93
+clients : response by server: 6 Task : 1 Subtask : 2 ans : 965
+clients : response by server: 7 Task : 1 Subtask : 2 ans : 965
+clients : response by server: 1 Task : 1 Subtask : 3 ans : 870
+clients : response by server: 3 Task : 1 Subtask : 3 ans : 870
+clients : response by server: 6 Task : 1 Subtask : 3 ans : 870
+clients : response by server: 7 Task : 1 Subtask : 3 ans : 870
+clients : response by server: 1 Task : 1 Subtask : 4 ans : 771
+clients : response by server: 3 Task : 1 Subtask : 4 ans : 771
+clients : response by server: 6 Task : 1 Subtask : 4 ans : 771
+clients : response by server: 7 Task : 1 Subtask : 4 ans : 771
+clients : response by server: 1 Task : 1 Subtask : 5 ans : 827
+clients : response by server: 3 Task : 1 Subtask : 5 ans : 827
+clients : response by server: 6 Task : 1 Subtask : 5 ans : 827
+clients : response by server: 7 Task : 1 Subtask : 5 ans : 827
+clients : response by server: 1 Task : 1 Subtask : 6 ans : 914
+clients : response by server: 3 Task : 1 Subtask : 6 ans : 914
+clients : response by server: 6 Task : 1 Subtask : 6 ans : 914
+clients : response by server: 7 Task : 1 Subtask : 6 ans : 914
+clients : response by server: 1 Task : 1 Subtask : 7 ans : 963
+clients : response by server: 3 Task : 1 Subtask : 7 ans : 963
+clients : response by server: 6 Task : 1 Subtask : 7 ans : 963
+clients : response by server: 7 Task : 1 Subtask : 7 ans : 963
+clients : response by server: 1 Task : 1 Subtask : 8 ans : 674
+clients : response by server: 3 Task : 1 Subtask : 8 ans : 674
+clients : response by server: 6 Task : 1 Subtask : 8 ans : 674
+clients : response by server: 7 Task : 1 Subtask : 8 ans : 674
+clients : response by server: 2 Task : 1 Subtask : 0 ans : 692
+clients : response by server: 2 Task : 1 Subtask : 1 ans : 5
+clients : response by server: 2 Task : 1 Subtask : 2 ans : 965
+clients : response by server: 2 Task : 1 Subtask : 3 ans : 870
+clients : response by server: 2 Task : 1 Subtask : 4 ans : 771
+clients : response by server: 2 Task : 1 Subtask : 5 ans : 827
+clients : response by server: 2 Task : 1 Subtask : 6 ans : Client log file initialized: clients : 1
+Message received at 0 in clients : 1
+clients : 1 Task Created : 1 Task length : 35
+Task desc :432,214,593,753,839,397,416,713,858,884,537,493,869,807,253,681,549,99,339,100,257,601,179,886,997,259,493,379,256,696,662,640,982,497,802
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 0
+Sub Task desc :432,214,593,753
+clients : 1 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 0
+Sub Task desc :432,214,593,753
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 0
+Sub Task desc :432,214,593,753
+clients : 1 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 0
+Sub Task desc :432,214,593,753
+clients : 1 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 0
+Sub Task desc :432,214,593,753
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 1
+Sub Task desc :839,397,416,713
+clients : 1 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 1
+Sub Task desc :839,397,416,713
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 1
+Sub Task desc :839,397,416,713
+clients : 1 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 1
+Sub Task desc :839,397,416,713
+clients : 1 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 1
+Sub Task desc :839,397,416,713
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 2
+Sub Task desc :858,884,537,493
+clients : 1 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 2
+Sub Task desc :858,884,537,493
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 2
+Sub Task desc :858,884,537,493
+clients : 1 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 2
+Sub Task desc :858,884,537,493
+clients : 1 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 2
+Sub Task desc :858,884,537,493
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 3
+Sub Task desc :869,807,253,681
+clients : 1 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 3
+Sub Task desc :869,807,253,681
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 3
+Sub Task desc :869,807,253,681
+clients : 1 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 3
+Sub Task desc :869,807,253,681
+clients : 1 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 3
+Sub Task desc :869,807,253,681
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 4
+Sub Task desc :549,99,339,100
+clients : 1 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 4
+Sub Task desc :549,99,339,100
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 4
+Sub Task desc :549,99,339,100
+clients : 1 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 4
+Sub Task desc :549,99,339,100
+clients : 1 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 4
+Sub Task desc :549,99,339,100
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 5
+Sub Task desc :257,601,179,886
+clients : 1 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 5
+Sub Task desc :257,601,179,886
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 5
+Sub Task desc :257,601,179,886
+clients : 1 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 5
+Sub Task desc :257,601,179,886
+clients : 1 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 5
+Sub Task desc :257,601,179,886
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 6
+Sub Task desc :997,259,493,379
+clients : 1 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 6
+Sub Task desc :997,259,493,379
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 6
+Sub Task desc :997,259,493,379
+clients : 1 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 6
+Sub Task desc :997,259,493,379
+clients : 1 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 6
+Sub Task desc :997,259,493,379
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 7
+Sub Task desc :256,696,662,640
+clients : 1 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 7
+Sub Task desc :256,696,662,640
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 7
+Sub Task desc :256,696,662,640
+clients : 1 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 7
+Sub Task desc :256,696,662,640
+clients : 1 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 7
+Sub Task desc :256,696,662,640
+clients : 1 : Subtask sent : Destination : 1 Task number : 1 Sub task number : 8
+Sub Task desc :982,497,802
+clients : 1 : Subtask sent : Destination : 4 Task number : 1 Sub task number : 8
+Sub Task desc :982,497,802
+clients : 1 : Subtask sent : Destination : 5 Task number : 1 Sub task number : 8
+Sub Task desc :982,497,802
+clients : 1 : Subtask sent : Destination : 6 Task number : 1 Sub task number : 8
+Sub Task desc :982,497,802
+clients : 1 : Subtask sent : Destination : 7 Task number : 1 Sub task number : 8
+Sub Task desc :982,497,802
+clients : 1 Hello from Server
+clients : 1 Hello from Server
+clients : 1 Hello from Server
+clients : 1 Hello from Server
+clients : 1 Hello from Server
+clients : 1 Hello from Server
+clients : 1 Hello from Server
+clients : 1 Hello from Server
+clients : response by server: 1 Task : 1 Subtask : 0 ans : 753
+clients : response by server: 4 Task : 1 Subtask : 0 ans : 753
+clients : response by server: 6 Task : 1 Subtask : 0 ans : 753
+clients : response by server: 7 Task : 1 Subtask : 0 ans : 214
+clients : response by server: 1 Task : 1 Subtask : 1 ans : 839
+clients : response by server: 4 Task : 1 Subtask : 1 ans : 839
+clients : response by server: 6 Task : 1 Subtask : 1 ans : 397
+clients : response by server: 7 Task : 1 Subtask : 1 ans : 839
+clients : response by server: 1 Task : 1 Subtask : 2 ans : 884
+clients : response by server: 4 Task : 1 Subtask : 2 ans : 884
+clients : response by server: 6 Task : 1 Subtask : 2 ans : 884
+clients : response by server: 7 Task : 1 Subtask : 2 ans : 884
+clients : response by server: 1 Task : 1 Subtask : 3 ans : 869
+clients : response by server: 4 Task : 1 Subtask : 3 ans : 869
+clients : response by server: 6 Task : 1 Subtask : 3 ans : 869
+clients : response by server: 7 Task : 1 Subtask : 3 ans : 869
+clients : response by server: 1 Task : 1 Subtask : 4 ans : 549
+clients : response by server: 4 Task : 1 Subtask : 4 ans : 549
+clients : response by server: 6 Task : 1 Subtask : 4 ans : 549
+clients : response by server: 7 Task : 1 Subtask : 4 ans : 549
+clients : response by server: 1 Task : 1 Subtask : 5 ans : 886
+clients : response by server: 4 Task : 1 Subtask : 5 ans : 886
+clients : response by server: 6 Task : 1 Subtask : 5 ans : 886
+clients : response by server: 7 Task : 1 Subtask : 5 ans : 886
+clients : response by server: 1 Task : 1 Subtask : 6 ans : 997
+clients : response by server: 4 Task : 1 Subtask : 6 ans : 997
+clients : response by server: 6 Task : 1 Subtask : 6 ans : 997
+clients : response by server: 7 Task : 1 Subtask : 6 ans : 997
+clients : response by server: 1 Task : 1 Subtask : 7 ans : 696
+clients : response by server: 4 Task : 1 Subtask : 7 ans : 696
+clients : response by server: 6 Task : 1 Subtask : 7 ans : 696
+clients : response by server: 7 Task : 1 Subtask : 7 ans : 696
+clients : response by server: 1 Task : 1 Subtask : 8 ans : 982
+clients : response by server: 4 Task : 1 Subtask : 8 ans : 982
+clients : response by server: 6 Task : 1 Subtask : 8 ans : 982
+clients : response by server: 7 Task : 1 Subtask : 8 ans : 982
+clients : 1 Hello from Server
+clients : response by server: 5 Task : 1 Subtask : 0 ans : 753
+clients : response by server: 5 Task : 1 Subtask : 1 ans : 839
+clients : response by server: 5 Task : 1 Subtask : 2 ans : 884
+clients : response by server: 5 Task : 1 Subtask : 3 ans : 869
+clients : response by server: 5 Task : 1 Subtask : 4 ans : 549
+clients : response by server: 5 Task : 1 Subtask : 914
+clients : response by server: 2 Task : 1 Subtask : 7 ans : 963
+clients : response by server: 2 Task : 1 Subtask : 8 ans : 674
+clients : 0 : Processing task : 1
+clients : 0 : Task number : 1 Result : 965
+clients : 0 : Scoreupdated : server : 7 upd : +9 final :9
+clients : 0 : Scoreupdated : server : 6 upd : +9 final :9
+clients : 0 : Scoreupdated : server : 3 upd : +8 final :8
+clients : 0 : Scoreupdated : server : 2 upd : +8 final :8
+clients : 0 : Scoreupdated : server : 1 upd : +9 final :9
+clients : 0 : Gossip Sent : from : 0 to : 1
+clients : 0 : Gossip recieved : 0.4:
+clients : gossip processed : gossip recv : 1 : 0 : 18 : 8 : 8 : 9 : 9 : 17 : 17 : 0
+clients : 0 Task Created : 2 Task length : 41
+Task desc :86,725,817,815,288,401,174,445,114,591,907,234,73,66,956,831,806,306,171,105,803,671,923,539,96,764,503,994,255,36,408,507,964,56,847,918,780,191,193,584,978
+clients : 0 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 0
+Sub Task desc :86,725,817,815,288
+clients : 0 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 0
+Sub Task desc :86,725,817,815,288
+clients : 0 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 0
+Sub Task desc :86,725,817,815,288
+clients : 0 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 0
+Sub Task desc :86,725,817,815,288
+clients : 0 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 0
+Sub Task desc :86,725,817,815,288
+clients : 0 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 1
+Sub Task desc :401,174,445,114,591
+clients : 0 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 1
+Sub Task desc :401,174,445,114,591
+clients : 0 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 1
+Sub Task desc :401,174,445,114,591
+clients : 0 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 1
+Sub Task desc :401,174,445,114,591
+clients : 0 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 1
+Sub Task desc :401,174,445,114,591
+clients : 0 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 2
+Sub Task desc :907,234,73,66,956
+clients : 0 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 2
+Sub Task desc :907,234,73,66,956
+clients : 0 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 2
+Sub Task desc :907,234,73,66,956
+clients : 0 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 2
+Sub Task desc :907,234,73,66,956
+clients : 0 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 2
+Sub Task desc :907,234,73,66,956
+clients : 0 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 3
+Sub Task desc :831,806,306,171,105
+clients : 0 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 3
+Sub Task desc :831,806,306,171,105
+clients : 0 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 3
+Sub Task desc :831,806,306,171,105
+clients : 0 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 3
+Sub Task desc :831,806,306,171,105
+clients : 0 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 3
+Sub Task desc :831,806,306,171,105
+clients : 0 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 4
+Sub Task desc :803,671,923,539,96
+clients : 0 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 4
+Sub Task desc :803,671,923,539,96
+clients : 0 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 4
+Sub Task desc :803,671,923,539,96
+clients : 0 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 4
+Sub Task desc :803,671,923,539,96
+clients : 0 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 4
+Sub Task desc :803,671,923,539,96
+clients : 0 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 5
+Sub Task desc :764,503,994,255
+clients : 0 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 5
+Sub Task desc :764,503,994,255
+clients : 0 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 5
+Sub Task desc :764,503,994,255
+clients : 0 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 5
+Sub Task desc :764,503,994,255
+clients : 0 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 5
+Sub Task desc :764,503,994,255
+clients : 0 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 6
+Sub Task desc :36,408,507,964
+clients : 0 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 6
+Sub Task desc :36,408,507,964
+clients : 0 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 6
+Sub Task desc :36,408,507,964
+clients : 0 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 6
+Sub Task desc :36,408,507,964
+clients : 0 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 6
+Sub Task desc :36,408,507,964
+clients : 0 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 7
+Sub Task desc :56,847,918,780
+clients : 0 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 7
+Sub Task desc :56,847,918,780
+clients : 0 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 7
+Sub Task desc :56,847,918,780
+clients : 0 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 7
+Sub Task desc :56,847,918,780
+clients : 0 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 7
+Sub Task desc :56,847,918,780
+clients : 0 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 8
+Sub Task desc :191,193,584,978
+clients : 0 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 8
+Sub Task desc :191,193,584,978
+clients : 0 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 8
+Sub Task desc :191,193,584,978
+clients : 0 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 8
+Sub Task desc :191,193,584,978
+clients : 0 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 8
+Sub Task desc :191,193,584,978
+clients : response by server: 1 Task : 2 Subtask : 0 ans : 817
+clients : response by server: 4 Task : 2 Subtask : 0 ans : 817
+clients : response by server: 6 Task : 2 Subtask : 0 ans : 817
+clients : response by server: 7 Task : 2 Subtask : 0 ans : 817
+clients : response by server: 1 Task : 2 Subtask : 1 ans : 591
+clients : response by server: 4 Task : 2 Subtask : 1 ans : 591
+clients : response by server: 6 Task : 2 Subtask : 1 ans : 591
+clients : response by server: 7 Task : 2 Subtask : 1 ans : 591
+clients : response by server: 1 Task : 2 Subtask : 2 ans : 956
+clients : response by server: 4 Task : 2 Subtask : 2 ans : 956
+clients : response by server: 6 Task : 2 Subtask : 2 ans : 956
+clients : response by server: 7 Task : 2 Subtask : 2 ans : 956
+clients : response by server: 1 Task : 2 Subtask : 3 ans : 831
+clients : response by server: 4 Task : 2 Subtask : 3 ans : 831
+clients : response by server: 6 Task : 2 Subtask : 3 ans : 831
+clients : response by server: 7 Task : 2 Subtask : 3 ans : 831
+clients : response by server: 1 Task : 2 Subtask : 4 ans : 923
+clients : response by server: 4 Task : 2 Subtask : 4 ans : 923
+clients : response by server: 6 Task : 2 Subtask : 4 ans : 923
+clients : response by server: 7 Task : 2 Subtask : 4 ans : 923
+clients : response by server: 1 Task : 2 Subtask : 5 ans : 994
+clients : response by server: 4 Task : 2 Subtask : 5 ans : 994
+clients : response by server: 6 Task : 2 Subtask : 5 ans : 255
+clients : response by server: 7 Task : 2 Subtask : 5 ans : 994
+clients : response by server: 1 Task : 2 Subtask : 6 ans : 964
+clients : response by server: 4 Task : 2 Subtask : 6 ans : 964
+clients : response by server: 6 Task : 2 Subtask : 6 ans : 964
+clients : response by server: 7 Task : 2 Subtask : 6 ans : 964
+clients : response by server: 1 Task : 2 Subtask : 7 ans : 918
+clients : response by server: 4 Task : 2 Subtask : 7 ans : 918
+clients : response by server: 6 Task : 2 Subtask : 7 ans : 918
+clients : response by server: 7 Task : 2 Subtask : 7 ans : 918
+clients : response by server: 1 Task : 2 Subtask : 8 ans : 978
+clients : response by server: 4 Task : 2 Subtask : 8 ans : 978
+clients : response by server: 6 Task : 2 Subtask : 8 ans : 9785 ans : 886
+clients : response by server: 5 Task : 1 Subtask : 6 ans : 997
+clients : response by server: 5 Task : 1 Subtask : 7 ans : 696
+clients : response by server: 5 Task : 1 Subtask : 8 ans : 982
+clients : 1 : Processing task : 1
+clients : 1 : Task number : 1 Result : 997
+clients : 1 : Scoreupdated : server : 7 upd : +8 final :8
+clients : 1 : Scoreupdated : server : 6 upd : +8 final :8
+clients : 1 : Scoreupdated : server : 5 upd : +9 final :9
+clients : 1 : Scoreupdated : server : 4 upd : +9 final :9
+clients : 1 : Scoreupdated : server : 1 upd : +9 final :9
+clients : 1 : Gossip Sent : from : 1 to : 0
+clients : 1 : Gossip recieved : 0.4:
+clients : gossip processed : gossip recv : 1 : 0 : 18 : 8 : 8 : 9 : 9 : 17 : 17 : 0
+clients : 1 Task Created : 2 Task length : 33
+Task desc :435,780,194,390,394,680,187,739,264,139,907,15,150,939,751,323,593,691,518,212,594,487,150,548,403,495,112,664,1000,485,871,315,222
+clients : 1 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 0
+Sub Task desc :435,780,194,390
+clients : 1 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 0
+Sub Task desc :435,780,194,390
+clients : 1 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 0
+Sub Task desc :435,780,194,390
+clients : 1 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 0
+Sub Task desc :435,780,194,390
+clients : 1 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 0
+Sub Task desc :435,780,194,390
+clients : 1 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 1
+Sub Task desc :394,680,187,739
+clients : 1 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 1
+Sub Task desc :394,680,187,739
+clients : 1 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 1
+Sub Task desc :394,680,187,739
+clients : 1 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 1
+Sub Task desc :394,680,187,739
+clients : 1 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 1
+Sub Task desc :394,680,187,739
+clients : 1 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 2
+Sub Task desc :264,139,907,15
+clients : 1 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 2
+Sub Task desc :264,139,907,15
+clients : 1 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 2
+Sub Task desc :264,139,907,15
+clients : 1 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 2
+Sub Task desc :264,139,907,15
+clients : 1 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 2
+Sub Task desc :264,139,907,15
+clients : 1 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 3
+Sub Task desc :150,939,751,323
+clients : 1 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 3
+Sub Task desc :150,939,751,323
+clients : 1 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 3
+Sub Task desc :150,939,751,323
+clients : 1 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 3
+Sub Task desc :150,939,751,323
+clients : 1 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 3
+Sub Task desc :150,939,751,323
+clients : 1 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 4
+Sub Task desc :593,691,518,212
+clients : 1 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 4
+Sub Task desc :593,691,518,212
+clients : 1 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 4
+Sub Task desc :593,691,518,212
+clients : 1 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 4
+Sub Task desc :593,691,518,212
+clients : 1 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 4
+Sub Task desc :593,691,518,212
+clients : 1 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 5
+Sub Task desc :594,487,150,548
+clients : 1 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 5
+Sub Task desc :594,487,150,548
+clients : 1 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 5
+Sub Task desc :594,487,150,548
+clients : 1 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 5
+Sub Task desc :594,487,150,548
+clients : 1 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 5
+Sub Task desc :594,487,150,548
+clients : 1 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 6
+Sub Task desc :403,495,112
+clients : 1 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 6
+Sub Task desc :403,495,112
+clients : 1 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 6
+Sub Task desc :403,495,112
+clients : 1 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 6
+Sub Task desc :403,495,112
+clients : 1 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 6
+Sub Task desc :403,495,112
+clients : 1 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 7
+Sub Task desc :664,1000,485
+clients : 1 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 7
+Sub Task desc :664,1000,485
+clients : 1 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 7
+Sub Task desc :664,1000,485
+clients : 1 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 7
+Sub Task desc :664,1000,485
+clients : 1 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 7
+Sub Task desc :664,1000,485
+clients : 1 : Subtask sent : Destination : 1 Task number : 2 Sub task number : 8
+Sub Task desc :871,315,222
+clients : 1 : Subtask sent : Destination : 4 Task number : 2 Sub task number : 8
+Sub Task desc :871,315,222
+clients : 1 : Subtask sent : Destination : 5 Task number : 2 Sub task number : 8
+Sub Task desc :871,315,222
+clients : 1 : Subtask sent : Destination : 6 Task number : 2 Sub task number : 8
+Sub Task desc :871,315,222
+clients : 1 : Subtask sent : Destination : 7 Task number : 2 Sub task number : 8
+Sub Task desc :871,315,222
+clients : response by server: 1 Task : 2 Subtask : 0 ans : 780
+clients : response by server: 4 Task : 2 Subtask : 0 ans : 780
+clients : response by server: 6 Task : 2 Subtask : 0 ans : 780
+clients : response by server: 7 Task : 2 Subtask : 0 ans : 780
+clients : response by server: 1 Task : 2 Subtask : 1 ans : 739
+clients : response by server: 4 Task : 2 Subtask : 1 ans : 739
+clients : response by server: 6 Task : 2 Subtask : 1 ans : 187
+clients : response by server: 7 Task : 2 Subtask : 1 ans : 739
+clients : response by server: 1 Task : 2 Subtask : 2 ans : 907
+clients : response by server: 4 Task : 2 Subtask : 2 ans : 907
+clients : response by server: 6 Task : 2 Subtask : 2 ans : 907
+clients : response by server: 7 Task : 2 Subtask : 2 ans : 907
+clients : response by server: 1 Task : 2 Subtask : 3 ans : 939
+clients : response by server: 4 Task : 2 Subtask : 3 ans : 939
+clients : response by server: 6 Task : 2 Subtask : 3 ans : 939
+clients : response by server: 7 Task : 2 Subtask : 3 ans : 150
+clients : response by server: 1 Task : 2 Subtask : 4 ans : 691
+clients : response by server: 4 Task : 2 Subtask : 4 ans : 691
+clients : response by server: 6 Task : 2 Subtask : 4 ans : 691
+clients : response by server: 7 Task : 2 Subtask : 4 ans : 691
+clients : response by server: 1 Task : 2 Subtask : 5 ans : 594
+clients : response by server: 4 Task : 2 Subtask : 5 ans : 594
+clients : response by server: 6 Task : 2 Subtask : 5 ans : 594
+clients : response by server: 7 Task : 2 Subtask : 5 ans : 594
+clients : response by server: 1 Task : 2 Subtask : 6 ans : 495
+clients : response by server: 4 Task : 2 Subtask : 6 ans : 495
+clients : response by server: 6 Task : 2 Subtask : 6 ans : 495
+clients : response by server: 7 Task : 2 Subtask : 6 ans : 495
+clients : response by server: 1 Task : 2 Subtask : 7 ans : 1000
+clients : response by server: 4 Task : 2 Subtask : 7 ans : 1000
+clients : response by server: 6 Task : 2 Subtask : 7 ans : 1000
+clients : response by server: 7 Task : 2 Subtask : 7 ans : 1000
+clients : response by server: 1 Task : 2 Subtask : 8 ans : 871
+clients : response by server: 4 Task : 2 Subtask : 8 ans : 871
+clients : response by server: 6 Task : 2 Subtask : 8 ans : 871
+clients : response by server: 7 Task : 2 Subtask : 8 ans : 871
+clients : response by server: 
+clients : response by server: 7 Task : 2 Subtask : 8 ans : 978
+clients : response by server: 5 Task : 2 Subtask : 0 ans : 817
+clients : response by server: 5 Task : 2 Subtask : 1 ans : 591
+clients : response by server: 5 Task : 2 Subtask : 2 ans : 956
+clients : response by server: 5 Task : 2 Subtask : 3 ans : 831
+clients : response by server: 5 Task : 2 Subtask : 4 ans : 923
+clients : response by server: 5 Task : 2 Subtask : 5 ans : 994
+clients : response by server: 5 Task : 2 Subtask : 6 ans : 964
+clients : response by server: 5 Task : 2 Subtask : 7 ans : 918
+clients : response by server: 5 Task : 2 Subtask : 8 ans : 978
+clients : 0 : Processing task : 2
+clients : 0 : Task number : 2 Result : 994
+clients : 0 : Scoreupdated : server : 7 upd : +9 final :26
+clients : 0 : Scoreupdated : server : 6 upd : +8 final :25
+clients : 0 : Scoreupdated : server : 5 upd : +9 final :18
+clients : 0 : Scoreupdated : server : 4 upd : +9 final :18
+clients : 0 : Scoreupdated : server : 1 upd : +9 final :27
+clients : 0 : Gossip Sent : from : 0 to : 1
+clients : 0 : Gossip recieved : 0.9:
+5 Task : 2 Subtask : 0 ans : 780
+clients : response by server: 5 Task : 2 Subtask : 1 ans : 739
+clients : response by server: 5 Task : 2 Subtask : 2 ans : 907
+clients : response by server: 5 Task : 2 Subtask : 3 ans : 939
+clients : response by server: 5 Task : 2 Subtask : 4 ans : 691
+clients : response by server: 5 Task : 2 Subtask : 5 ans : 594
+clients : response by server: 5 Task : 2 Subtask : 6 ans : 495
+clients : response by server: 5 Task : 2 Subtask : 7 ans : 1000
+clients : response by server: 5 Task : 2 Subtask : 8 ans : 871
+clients : 1 : Processing task : 2
+clients : 1 : Task number : 2 Result : 1000
+clients : 1 : Scoreupdated : server : 7 upd : +8 final :25
+clients : 1 : Scoreupdated : server : 6 upd : +8 final :25
+clients : 1 : Scoreupdated : server : 5 upd : +9 final :18
+clients : 1 : Scoreupdated : server : 4 upd : +9 final :18
+clients : 1 : Scoreupdated : server : 1 upd : +9 final :27
+clients : 1 : Gossip Sent : from : 1 to : 0
+clients : 1 : Gossip recieved : 1:

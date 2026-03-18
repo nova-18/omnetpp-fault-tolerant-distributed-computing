@@ -1,0 +1,585 @@
+servers : 0 initialized, sending Hello message to all Clients.
+servers : 0Received subtask with Client ID: 0 Task length = 4
+633 63 502 692 
+servers : 0 : malicious flag :0 ans :692
+servers : 0Received subtask with Client ID: 0 Task length = 4
+703 28 5 550 
+servers : 0 : malicious flag :1 ans :5
+servers : 0Received subtask with Client ID: 0 Task length = 4
+437 929 965 93 
+servers : 0 : malicious flag :0 ans :965
+servers : 1 initialized, sending Hello message to all Clients.
+servers : 2 initialized, sending Hello message to all Clients.
+servers : 3 initialized, sending Hello message to all Clients.
+servers : 4 initialized, sending Hello message to all Clients.
+servers : 4Received subtask with Client ID: 0 Task length = 4
+633 63 502 692 
+servers : 4 : malicious flag :0 ans :692
+servers : 4Received subtask with Client ID: 0 Task length = 4
+703 28 5 550 
+servers : 4 : malicious flag :0 ans :703
+servers : 4Received subtask with Client ID: 0 Task length = 4
+437 929 965 93 
+servers : 4 : malicious flag :0 ans :965
+servers : 5 initialized, sending Hello message to all Clients.
+servers : 6 initialized, sending Hello message to all Clients.
+servers : 6Received subtask with Client ID: 0 Task length = 4
+633 63 502 692 
+servers : 6 : malicious flag :0 ans :692
+servers : 6Received subtask with Client ID: 0 Task length = 4
+703 28 5 550 
+servers : 6 : malicious flag :0 ans :703
+servers : 6Received subtask with Client ID: 0 Task length = 4
+437 929 965 93 
+servers : 6 : malicious flag :0 ans :965
+servers : 7 initialized, sending Hello message to all Clients.
+servers : 8 initialized, sending Hello message to all Clients.
+servers : 0 initialized, sending Hello message to all Clients.
+servers : 1 initialized, sending Hello message to all Clients.
+servers : 1Received subtask with Client ID: 0 Task length = 4
+633 63 502 692 
+servers : 1 : malicious flag :0 ans :692
+servers : 1Received subtask with Client ID: 0 Task length = 4
+703 28 5 550 
+servers : 1 : malicious flag :0 ans :703
+servers : 1Received subtask with Client ID: 0 Task length = 4
+437 929 965 93 
+servers : 1 : malicious flag :0 ans :965
+servers : 1Received subtask with Client ID: 0 Task length = 4
+815 870 118 345 
+servers : 1 : malicious flag :0 ans :870
+servers : 1Received subtask with Client ID: 0 Task length = 4
+771 10 388 11 
+servers : 1 : malicious flag :0 ans :771
+servers : 1Received subtask with Client ID: 0 Task length = 4
+827 237 523 704 
+servers : 1 : malicious flag :0 ans :827
+servers : 1Received subtask with Client ID: 0 Task length = 4
+705 613 914 771 
+servers : 1 : malicious flag :0 ans :914
+servers : 1Received subtask with Client ID: 0 Task length = 3
+963 770 480 
+servers : 1 : malicious flag :0 ans :963
+servers : 1Received subtask with Client ID: 0 Task length = 3
+55 674 196 
+servers : 1 : malicious flag :0 ans :674
+servers : 1Received subtask with Client ID: 1 Task length = 4
+432 214 593 753 
+servers : 1 : malicious flag :0 ans :753
+servers : 1Received subtask with Client ID: 1 Task length = 4
+839 397 416 713 
+servers : 1 : malicious flag :0 ans :839
+servers : 1Received subtask with Client ID: 1 Task length = 4
+858 884 537 493 
+servers : 1 : malicious flag :0 ans :884
+servers : 1Received subtask with Client ID: 1 Task length = 4
+869 807 253 681 
+servers : 1 : malicious flag :0 ans :869
+servers : 1Received subtask with Client ID: 1 Task length = 4
+549 99 339 100 
+servers : 1 : malicious flag :0 ans :549
+servers : 1Received subtask with Client ID: 1 Task length = 4
+257 601 179 886 
+servers : 1 : malicious flag :0 ans :886
+servers : 1Received subtask with Client ID: 1 Task length = 4
+997 259 493 379 
+servers : 1 : malicious flag :0 ans :997
+servers : 1Received subtask with Client ID: 1 Task length = 4
+256 696 662 640 
+servers : 1 : malicious flag :0 ans :696
+servers : 1Received subtask with Client ID: 1 Task length = 3
+982 497 802 
+servers : 1 : malicious flag :0 ans :982
+servers : 1Received subtask with Client ID: 1 Task length = 4
+435 780 194 390 
+servers : 1 : malicious flag :0 ans :780
+servers : 1Received subtask with Client ID: 1 Task length = 4
+394 680 187 739 
+servers : 1 : malicious flag :0 ans :739
+servers : 1Received subtask with Client ID: 1 Task length = 4
+264 139 907 15 
+servers : 1 : malicious flag :0 ans :907
+servers : 1Received subtask with Client ID: 1 Task length = 4
+150 939 751 323 
+servers : 1 : malicious flag :0 ans :939
+servers : 1Received subtask with Client ID: 1 Task length = 4
+593 691 518 212 
+servers : 1 : malicious flag :0 ans :691
+servers : 1Received subtask with Client ID: 1 Task length = 4
+594 487 150 548 
+servers : 1 : malicious flag :0 ans :594
+servers : 1Received subtask with Client ID: 1 Task length = 3
+403 495 112 
+servers : 1 : malicious flag :0 ans :495
+servers : 1Received subtask with Client ID: 1 Task length = 3
+664 1000 485 
+servers : 1 : malicious flag :0 ans :1000
+servers : 1Received subtask with Client ID: 1 Task length = 3
+871 315 222 
+servers : 1 : malicious flag :0 ans :871
+servers : 1Received subtask with Client ID: 0 Task length = 5
+86 725 817 815 288 
+servers : 1 : malicious flag :0 ans :817
+servers : 1Received subtask with Client ID: 0 Task length = 5
+401 174 445 114 591 
+servers : 1 : malicious flag :0 ans :591
+servers : 1Received subtask with Client ID: 0 Task length = 5
+907 234 73 66 956 
+servers : 1 : malicious flag :0 ans :956
+servers : 1Received subtask with Client ID: 0 Task length = 5
+831 806 306 171 105 
+servers : 1 : malicious flag :0 ans :831
+servers : 1Received subtask with Client ID: 0 Task length = 5
+803 671 923 539 96 
+servers : 1 : malicious flag :0 ans :923
+servers : 1Received subtask with Client ID: 0 Task length = 4
+764 503 994 255 
+servers : 1 : malicious flag :0 ans :994
+servers : 1Received subtask with Client ID: 0 Task length = 4
+36 408 507 964 
+servers : 1 : malicious flag :0 ans :964
+servers : 1Received subtask with Client ID: 0 Task length = 4
+56 847 918 780 
+servers : 1 : malicious flag :0 ans :918
+servers : 1Received subtask with Client ID: 0 Task length = 4
+191 193 584 978 
+servers : 1 : malicious flag :0 ans :978
+servers : 2 initialized, sending Hello message to all Clients.
+servers : 2Received subtask with Client ID: 0 Task length = 4
+633 63 502 692 
+servers : 2 : malicious flag :0 ans :692
+servers : 2Received subtask with Client ID: 0 Task length = 4
+703 28 5 550 
+servers : 2 : malicious flag :1 ans :5
+servers : 2Received subtask with Client ID: 0 Task length = 4
+437 929 965 93 
+servers : 2 : malicious flag :0 ans :965
+servers : 2Received subtask with Client ID: 0 Task length = 4
+815 870 118 345 
+servers : 2 : malicious flag :0 ans :870
+servers : 2Received subtask with Client ID: 0 Task length = 4
+771 10 388 11 
+servers : 2 : malicious flag :0 ans :771
+servers : 2Received subtask with Client ID: 0 Task length = 4
+827 237 523 704 
+servers : 2 : malicious flag :0 ans :827
+servers : 2Received subtask with Client ID: 0 Task length = 4
+705 613 914 771 
+servers : 2 : malicious flag :0 ans :914
+servers : 2Received subtask with Client ID: 0 Task length = 3
+963 770 480 
+servers : 2 : malicious flag :0 ans :963
+servers : 2Received subtask with Client ID: 0 Task length = 3
+55 674 196 
+servers : 2 : malicious flag :0 ans :674
+servers : 3 initialized, sending Hello message to all Clients.
+servers : 3Received subtask with Client ID: 0 Task length = 4
+633 63 502 692 
+servers : 3 : malicious flag :0 ans :692
+servers : 3Received subtask with Client ID: 0 Task length = 4
+703 28 5 550 
+servers : 3 : malicious flag :0 ans :703
+servers : 3Received subtask with Client ID: 0 Task length = 4
+437 929 965 93 
+servers : 3 : malicious flag :1 ans :93
+servers : 3Received subtask with Client ID: 0 Task length = 4
+815 870 118 345 
+servers : 3 : malicious flag :0 ans :870
+servers : 3Received subtask with Client ID: 0 Task length = 4
+771 10 388 11 
+servers : 3 : malicious flag :0 ans :771
+servers : 3Received subtask with Client ID: 0 Task length = 4
+827 237 523 704 
+servers : 3 : malicious flag :0 ans :827
+servers : 3Received subtask with Client ID: 0 Task length = 4
+705 613 914 771 
+servers : 3 : malicious flag :0 ans :914
+servers : 3Received subtask with Client ID: 0 Task length = 3
+963 770 480 
+servers : 3 : malicious flag :0 ans :963
+servers : 3Received subtask with Client ID: 0 Task length = 3
+55 674 196 
+servers : 3 : malicious flag :0 ans :674
+servers : 4 initialized, sending Hello message to all Clients.
+servers : 4Received subtask with Client ID: 1 Task length = 4
+432 214 593 753 
+servers : 4 : malicious flag :0 ans :753
+servers : 4Received subtask with Client ID: 1 Task length = 4
+839 397 416 713 
+servers : 4 : malicious flag :0 ans :839
+servers : 4Received subtask with Client ID: 1 Task length = 4
+858 884 537 493 
+servers : 4 : malicious flag :0 ans :884
+servers : 4Received subtask with Client ID: 1 Task length = 4
+869 807 253 681 
+servers : 4 : malicious flag :0 ans :869
+servers : 4Received subtask with Client ID: 1 Task length = 4
+549 99 339 100 
+servers : 4 : malicious flag :0 ans :549
+servers : 4Received subtask with Client ID: 1 Task length = 4
+257 601 179 886 
+servers : 4 : malicious flag :0 ans :886
+servers : 4Received subtask with Client ID: 1 Task length = 4
+997 259 493 379 
+servers : 4 : malicious flag :0 ans :997
+servers : 4Received subtask with Client ID: 1 Task length = 4
+256 696 662 640 
+servers : 4 : malicious flag :0 ans :696
+servers : 4Received subtask with Client ID: 1 Task length = 3
+982 497 802 
+servers : 4 : malicious flag :0 ans :982
+servers : 4Received subtask with Client ID: 1 Task length = 4
+435 780 194 390 
+servers : 4 : malicious flag :0 ans :780
+servers : 4Received subtask with Client ID: 1 Task length = 4
+394 680 187 739 
+servers : 4 : malicious flag :0 ans :739
+servers : 4Received subtask with Client ID: 1 Task length = 4
+264 139 907 15 
+servers : 4 : malicious flag :0 ans :907
+servers : 4Received subtask with Client ID: 1 Task length = 4
+150 939 751 323 
+servers : 4 : malicious flag :0 ans :939
+servers : 4Received subtask with Client ID: 1 Task length = 4
+593 691 518 212 
+servers : 4 : malicious flag :0 ans :691
+servers : 4Received subtask with Client ID: 1 Task length = 4
+594 487 150 548 
+servers : 4 : malicious flag :0 ans :594
+servers : 4Received subtask with Client ID: 1 Task length = 3
+403 495 112 
+servers : 4 : malicious flag :0 ans :495
+servers : 4Received subtask with Client ID: 1 Task length = 3
+664 1000 485 
+servers : 4 : malicious flag :0 ans :1000
+servers : 4Received subtask with Client ID: 1 Task length = 3
+871 315 222 
+servers : 4 : malicious flag :0 ans :871
+servers : 4Received subtask with Client ID: 0 Task length = 5
+86 725 817 815 288 
+servers : 4 : malicious flag :0 ans :817
+servers : 4Received subtask with Client ID: 0 Task length = 5
+401 174 445 114 591 
+servers : 4 : malicious flag :0 ans :591
+servers : 4Received subtask with Client ID: 0 Task length = 5
+907 234 73 66 956 
+servers : 4 : malicious flag :0 ans :956
+servers : 4Received subtask with Client ID: 0 Task length = 5
+831 806 306 171 105 
+servers : 4 : malicious flag :0 ans :831
+servers : 4Received subtask with Client ID: 0 Task length = 5
+803 671 923 539 96 
+servers : 4 : malicious flag :0 ans :923
+servers : 4Received subtask with Client ID: 0 Task length = 4
+764 503 994 255 
+servers : 4 : malicious flag :0 ans :994
+servers : 4Received subtask with Client ID: 0 Task length = 4
+36 408 507 964 
+servers : 4 : malicious flag :0 ans :964
+servers : 4Received subtask with Client ID: 0 Task length = 4
+56 847 918 780 
+servers : 4 : malicious flag :0 ans :918
+servers : 4Received subtask with Client ID: 0 Task length = 4
+191 193 584 978 
+servers : 4 : malicious flag :0 ans :978
+servers : 5 initialized, sending Hello message to all Clients.
+servers : 5Received subtask with Client ID: 1 Task length = 4
+432 214 593 753 
+servers : 5 : malicious flag :0 ans :753
+servers : 5Received subtask with Client ID: 1 Task length = 4
+839 397 416 713 
+servers : 5 : malicious flag :0 ans :839
+servers : 5Received subtask with Client ID: 1 Task length = 4
+858 884 537 493 
+servers : 5 : malicious flag :0 ans :884
+servers : 5Received subtask with Client ID: 1 Task length = 4
+869 807 253 681 
+servers : 5 : malicious flag :0 ans :869
+servers : 5Received subtask with Client ID: 1 Task length = 4
+549 99 339 100 
+servers : 5 : malicious flag :0 ans :549
+servers : 5Received subtask with Client ID: 1 Task length = 4
+257 601 179 886 
+servers : 5 : malicious flag :0 ans :886
+servers : 5Received subtask with Client ID: 1 Task length = 4
+997 259 493 379 
+servers : 5 : malicious flag :0 ans :997
+servers : 5Received subtask with Client ID: 1 Task length = 4
+256 696 662 640 
+servers : 5 : malicious flag :0 ans :696
+servers : 5Received subtask with Client ID: 1 Task length = 3
+982 497 802 
+servers : 5 : malicious flag :0 ans :982
+servers : 5Received subtask with Client ID: 1 Task length = 4
+435 780 194 390 
+servers : 5 : malicious flag :0 ans :780
+servers : 5Received subtask with Client ID: 1 Task length = 4
+394 680 187 739 
+servers : 5 : malicious flag :0 ans :739
+servers : 5Received subtask with Client ID: 1 Task length = 4
+264 139 907 15 
+servers : 5 : malicious flag :0 ans :907
+servers : 5Received subtask with Client ID: 1 Task length = 4
+150 939 751 323 
+servers : 5 : malicious flag :0 ans :939
+servers : 5Received subtask with Client ID: 1 Task length = 4
+593 691 518 212 
+servers : 5 : malicious flag :0 ans :691
+servers : 5Received subtask with Client ID: 1 Task length = 4
+594 487 150 548 
+servers : 5 : malicious flag :0 ans :594
+servers : 5Received subtask with Client ID: 1 Task length = 3
+403 495 112 
+servers : 5 : malicious flag :0 ans :495
+servers : 5Received subtask with Client ID: 1 Task length = 3
+664 1000 485 
+servers : 5 : malicious flag :0 ans :1000
+servers : 5Received subtask with Client ID: 1 Task length = 3
+871 315 222 
+servers : 5 : malicious flag :0 ans :871
+servers : 5Received subtask with Client ID: 0 Task length = 5
+86 725 817 815 288 
+servers : 5 : malicious flag :0 ans :817
+servers : 5Received subtask with Client ID: 0 Task length = 5
+401 174 445 114 591 
+servers : 5 : malicious flag :0 ans :591
+servers : 5Received subtask with Client ID: 0 Task length = 5
+907 234 73 66 956 
+servers : 5 : malicious flag :0 ans :956
+servers : 5Received subtask with Client ID: 0 Task length = 5
+831 806 306 171 105 
+servers : 5 : malicious flag :0 ans :831
+servers : 5Received subtask with Client ID: 0 Task length = 5
+803 671 923 539 96 
+servers : 5 : malicious flag :0 ans :923
+servers : 5Received subtask with Client ID: 0 Task length = 4
+764 503 994 255 
+servers : 5 : malicious flag :0 ans :994
+servers : 5Received subtask with Client ID: 0 Task length = 4
+36 408 507 964 
+servers : 5 : malicious flag :0 ans :964
+servers : 5Received subtask with Client ID: 0 Task length = 4
+56 847 918 780 
+servers : 5 : malicious flag :0 ans :918
+servers : 5Received subtask with Client ID: 0 Task length = 4
+191 193 584 978 
+servers : 5 : malicious flag :0 ans :978
+servers : 6 initialized, sending Hello message to all Clients.
+servers : 6Received subtask with Client ID: 0 Task length = 4
+633 63 502 692 
+servers : 6 : malicious flag :0 ans :692
+servers : 6Received subtask with Client ID: 0 Task length = 4
+703 28 5 550 
+servers : 6 : malicious flag :0 ans :703
+servers : 6Received subtask with Client ID: 0 Task length = 4
+437 929 965 93 
+servers : 6 : malicious flag :0 ans :965
+servers : 6Received subtask with Client ID: 0 Task length = 4
+815 870 118 345 
+servers : 6 : malicious flag :0 ans :870
+servers : 6Received subtask with Client ID: 0 Task length = 4
+771 10 388 11 
+servers : 6 : malicious flag :0 ans :771
+servers : 6Received subtask with Client ID: 0 Task length = 4
+827 237 523 704 
+servers : 6 : malicious flag :0 ans :827
+servers : 6Received subtask with Client ID: 0 Task length = 4
+705 613 914 771 
+servers : 6 : malicious flag :0 ans :914
+servers : 6Received subtask with Client ID: 0 Task length = 3
+963 770 480 
+servers : 6 : malicious flag :0 ans :963
+servers : 6Received subtask with Client ID: 0 Task length = 3
+55 674 196 
+servers : 6 : malicious flag :0 ans :674
+servers : 6Received subtask with Client ID: 1 Task length = 4
+432 214 593 753 
+servers : 6 : malicious flag :0 ans :753
+servers : 6Received subtask with Client ID: 1 Task length = 4
+839 397 416 713 
+servers : 6 : malicious flag :1 ans :397
+servers : 6Received subtask with Client ID: 1 Task length = 4
+858 884 537 493 
+servers : 6 : malicious flag :0 ans :884
+servers : 6Received subtask with Client ID: 1 Task length = 4
+869 807 253 681 
+servers : 6 : malicious flag :0 ans :869
+servers : 6Received subtask with Client ID: 1 Task length = 4
+549 99 339 100 
+servers : 6 : malicious flag :0 ans :549
+servers : 6Received subtask with Client ID: 1 Task length = 4
+257 601 179 886 
+servers : 6 : malicious flag :0 ans :886
+servers : 6Received subtask with Client ID: 1 Task length = 4
+997 259 493 379 
+servers : 6 : malicious flag :0 ans :997
+servers : 6Received subtask with Client ID: 1 Task length = 4
+256 696 662 640 
+servers : 6 : malicious flag :0 ans :696
+servers : 6Received subtask with Client ID: 1 Task length = 3
+982 497 802 
+servers : 6 : malicious flag :0 ans :982
+servers : 6Received subtask with Client ID: 1 Task length = 4
+435 780 194 390 
+servers : 6 : malicious flag :0 ans :780
+servers : 6Received subtask with Client ID: 1 Task length = 4
+394 680 187 739 
+servers : 6 : malicious flag :1 ans :187
+servers : 6Received subtask with Client ID: 1 Task length = 4
+264 139 907 15 
+servers : 6 : malicious flag :0 ans :907
+servers : 6Received subtask with Client ID: 1 Task length = 4
+150 939 751 323 
+servers : 6 : malicious flag :0 ans :939
+servers : 6Received subtask with Client ID: 1 Task length = 4
+593 691 518 212 
+servers : 6 : malicious flag :0 ans :691
+servers : 6Received subtask with Client ID: 1 Task length = 4
+594 487 150 548 
+servers : 6 : malicious flag :0 ans :594
+servers : 6Received subtask with Client ID: 1 Task length = 3
+403 495 112 
+servers : 6 : malicious flag :0 ans :495
+servers : 6Received subtask with Client ID: 1 Task length = 3
+664 1000 485 
+servers : 6 : malicious flag :0 ans :1000
+servers : 6Received subtask with Client ID: 1 Task length = 3
+871 315 222 
+servers : 6 : malicious flag :0 ans :871
+servers : 6Received subtask with Client ID: 0 Task length = 5
+86 725 817 815 288 
+servers : 6 : malicious flag :0 ans :817
+servers : 6Received subtask with Client ID: 0 Task length = 5
+401 174 445 114 591 
+servers : 6 : malicious flag :0 ans :591
+servers : 6Received subtask with Client ID: 0 Task length = 5
+907 234 73 66 956 
+servers : 6 : malicious flag :0 ans :956
+servers : 6Received subtask with Client ID: 0 Task length = 5
+831 806 306 171 105 
+servers : 6 : malicious flag :0 ans :831
+servers : 6Received subtask with Client ID: 0 Task length = 5
+803 671 923 539 96 
+servers : 6 : malicious flag :0 ans :923
+servers : 6Received subtask with Client ID: 0 Task length = 4
+764 503 994 255 
+servers : 6 : malicious flag :1 ans :255
+servers : 6Received subtask with Client ID: 0 Task length = 4
+36 408 507 964 
+servers : 6 : malicious flag :0 ans :964
+servers : 6Received subtask with Client ID: 0 Task length = 4
+56 847 918 780 
+servers : 6 : malicious flag :0 ans :918
+servers : 6Received subtask with Client ID: 0 Task length = 4
+191 193 584 978 
+servers : 6 : malicious flag :0 ans :978
+servers : 7 initialized, sending Hello message to all Clients.
+servers : 7Received subtask with Client ID: 0 Task length = 4
+633 63 502 692 
+servers : 7 : malicious flag :0 ans :692
+servers : 7Received subtask with Client ID: 0 Task length = 4
+703 28 5 550 
+servers : 7 : malicious flag :0 ans :703
+servers : 7Received subtask with Client ID: 0 Task length = 4
+437 929 965 93 
+servers : 7 : malicious flag :0 ans :965
+servers : 7Received subtask with Client ID: 0 Task length = 4
+815 870 118 345 
+servers : 7 : malicious flag :0 ans :870
+servers : 7Received subtask with Client ID: 0 Task length = 4
+771 10 388 11 
+servers : 7 : malicious flag :0 ans :771
+servers : 7Received subtask with Client ID: 0 Task length = 4
+827 237 523 704 
+servers : 7 : malicious flag :0 ans :827
+servers : 7Received subtask with Client ID: 0 Task length = 4
+705 613 914 771 
+servers : 7 : malicious flag :0 ans :914
+servers : 7Received subtask with Client ID: 0 Task length = 3
+963 770 480 
+servers : 7 : malicious flag :0 ans :963
+servers : 7Received subtask with Client ID: 0 Task length = 3
+55 674 196 
+servers : 7 : malicious flag :0 ans :674
+servers : 7Received subtask with Client ID: 1 Task length = 4
+432 214 593 753 
+servers : 7 : malicious flag :1 ans :214
+servers : 7Received subtask with Client ID: 1 Task length = 4
+839 397 416 713 
+servers : 7 : malicious flag :0 ans :839
+servers : 7Received subtask with Client ID: 1 Task length = 4
+858 884 537 493 
+servers : 7 : malicious flag :0 ans :884
+servers : 7Received subtask with Client ID: 1 Task length = 4
+869 807 253 681 
+servers : 7 : malicious flag :0 ans :869
+servers : 7Received subtask with Client ID: 1 Task length = 4
+549 99 339 100 
+servers : 7 : malicious flag :0 ans :549
+servers : 7Received subtask with Client ID: 1 Task length = 4
+257 601 179 886 
+servers : 7 : malicious flag :0 ans :886
+servers : 7Received subtask with Client ID: 1 Task length = 4
+997 259 493 379 
+servers : 7 : malicious flag :0 ans :997
+servers : 7Received subtask with Client ID: 1 Task length = 4
+256 696 662 640 
+servers : 7 : malicious flag :0 ans :696
+servers : 7Received subtask with Client ID: 1 Task length = 3
+982 497 802 
+servers : 7 : malicious flag :0 ans :982
+servers : 7Received subtask with Client ID: 1 Task length = 4
+435 780 194 390 
+servers : 7 : malicious flag :0 ans :780
+servers : 7Received subtask with Client ID: 1 Task length = 4
+394 680 187 739 
+servers : 7 : malicious flag :0 ans :739
+servers : 7Received subtask with Client ID: 1 Task length = 4
+264 139 907 15 
+servers : 7 : malicious flag :0 ans :907
+servers : 7Received subtask with Client ID: 1 Task length = 4
+150 939 751 323 
+servers : 7 : malicious flag :1 ans :150
+servers : 7Received subtask with Client ID: 1 Task length = 4
+593 691 518 212 
+servers : 7 : malicious flag :0 ans :691
+servers : 7Received subtask with Client ID: 1 Task length = 4
+594 487 150 548 
+servers : 7 : malicious flag :0 ans :594
+servers : 7Received subtask with Client ID: 1 Task length = 3
+403 495 112 
+servers : 7 : malicious flag :0 ans :495
+servers : 7Received subtask with Client ID: 1 Task length = 3
+664 1000 485 
+servers : 7 : malicious flag :0 ans :1000
+servers : 7Received subtask with Client ID: 1 Task length = 3
+871 315 222 
+servers : 7 : malicious flag :0 ans :871
+servers : 7Received subtask with Client ID: 0 Task length = 5
+86 725 817 815 288 
+servers : 7 : malicious flag :0 ans :817
+servers : 7Received subtask with Client ID: 0 Task length = 5
+401 174 445 114 591 
+servers : 7 : malicious flag :0 ans :591
+servers : 7Received subtask with Client ID: 0 Task length = 5
+907 234 73 66 956 
+servers : 7 : malicious flag :0 ans :956
+servers : 7Received subtask with Client ID: 0 Task length = 5
+831 806 306 171 105 
+servers : 7 : malicious flag :0 ans :831
+servers : 7Received subtask with Client ID: 0 Task length = 5
+803 671 923 539 96 
+servers : 7 : malicious flag :0 ans :923
+servers : 7Received subtask with Client ID: 0 Task length = 4
+764 503 994 255 
+servers : 7 : malicious flag :0 ans :994
+servers : 7Received subtask with Client ID: 0 Task length = 4
+36 408 507 964 
+servers : 7 : malicious flag :0 ans :964
+servers : 7Received subtask with Client ID: 0 Task length = 4
+56 847 918 780 
+servers : 7 : malicious flag :0 ans :918
+servers : 7Received subtask with Client ID: 0 Task length = 4
+191 193 584 978 
+servers : 7 : malicious flag :0 ans :978
+servers : 8 initialized, sending Hello message to all Clients.
